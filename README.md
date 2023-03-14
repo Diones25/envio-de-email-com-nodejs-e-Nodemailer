@@ -1,4 +1,4 @@
-![img](back-end/src/assets/nodemailernodejs.png)
+![img](backend/src/assets/nodemailernodejs.png)
 ## Envio de E-mail com Node JS e Nodemailer
 <div style="display: flex;">
 ![img](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
