@@ -6,7 +6,6 @@ const SMTP_CONFIG =  {
 }
  
 export default SMTP_CONFIG;  
-
 /*
 Esse tutorial resolve o erro de login incorreto 
 

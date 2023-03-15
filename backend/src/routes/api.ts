@@ -1,5 +1,4 @@
 import { Router } from 'express';
-import { EmptyResultError } from 'sequelize/types';
 import * as emailController from '../controllers/emailController'
 const router = Router();
 
